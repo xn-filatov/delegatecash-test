@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@typechain/ethers-v5": "^10.2.0",
+    "delegatecash": "^0.4.1"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
